@@ -1,0 +1,50 @@
+{
+  "04.10.2023": [
+    {
+      "baseCurrency": "UAH",
+      "currency": "AUD",
+      "saleRateNB": 23.0664,
+      "purchaseRateNB": 23.0664
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "USD",
+      "saleRateNB": 36.5901,
+      "purchaseRateNB": 36.5901,
+      "saleRate": 37.85,
+      "purchaseRate": 37.25
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "EUR",
+      "saleRateNB": 38.3263,
+      "purchaseRateNB": 38.3263,
+      "saleRate": 40.75,
+      "purchaseRate": 39.75
+    }
+  ],
+  "03.10.2023": [
+    {
+      "baseCurrency": "UAH",
+      "currency": "AUD",
+      "saleRateNB": 23.3856,
+      "purchaseRateNB": 23.3856
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "EUR",
+      "saleRateNB": 38.5177,
+      "purchaseRateNB": 38.5177,
+      "saleRate": 40.75,
+      "purchaseRate": 39.75
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "USD",
+      "saleRateNB": 36.5686,
+      "purchaseRateNB": 36.5686,
+      "saleRate": 37.85,
+      "purchaseRate": 37.25
+    }
+  ]
+}

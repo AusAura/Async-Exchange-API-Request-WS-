@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "async-api-privat"
+version = "0.1.0"
+description = ""
+authors = ["AusAura <91804331+AusAura@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+asyncio = "^3.4.3"
+aiofiles = "^23.2.1"
+aiopath = "^0.6.11"
+requests = "^2.31.0"
+websockets = "^11.0.3"
+aiohttp = "^3.8.5"
+names = "^0.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
