@@ -1,4 +1,4 @@
-# Async-API-privat
+# Async-Exchange-API-Request(WS)
 Get an actual currency exchange rate via CLI or web chat-like app (bot-like) by requesting it from the PrivatBank API. 
 
 The chat is a simple... chat (supports sharing messages between some number of different clients) with additional bot-like functionality that checks sent messages for commands. If the WS server is hosted on the prod server in the internet, of course. If the command is found, runs some related code.
