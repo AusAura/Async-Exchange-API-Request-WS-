@@ -9,6 +9,7 @@ In our case, the only available command is 'exchange' that sends request to Priv
 - Uses asyncio. Every request to the API is done asynchronously.
 - Chat was made with WebSockets. 
 - Displaying messages in the chat is done with JavaScript.
+- Results are saved in currencies.json
 
 ### Usage:
 
